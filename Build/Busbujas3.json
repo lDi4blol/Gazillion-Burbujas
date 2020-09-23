@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PruebaParaCañon",
+"productVersion": "0.1",
+"dataUrl": "Busbujas3.data.unityweb",
+"wasmCodeUrl": "Busbujas3.wasm.code.unityweb",
+"wasmFrameworkUrl": "Busbujas3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
